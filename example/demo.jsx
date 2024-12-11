@@ -75,7 +75,7 @@ var Demo = createReactClass({
   render: function () {
     return (
       <div className="demo">
-        <h1>ReactPivot Tantest</h1>
+        <h1>ReactPivot tantest</h1>
 
         <p>
           ReactPivot is a data-grid component with pivot-table-like
