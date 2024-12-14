@@ -1,0 +1,72 @@
+[
+  {
+    "number": "INC0000060",
+    "sys_created_on": "2016-12-12 15:19:57",
+    "impact": "2",
+    "state": "7",
+    "category": "inquiry"
+  },
+  {
+    "number": "INC0009002",
+    "sys_created_on": "2018-09-16 12:50:05",
+    "impact": "2",
+    "state": "7",
+    "category": "Hardware"
+  },
+  {
+    "number": "INC0000009",
+    "sys_created_on": "2024-06-14 22:51:33",
+    "impact": "1",
+    "state": "7",
+    "category": "inquiry"
+  },
+  {
+    "number": "INC0000010",
+    "sys_created_on": "2024-06-14 22:54:41",
+    "impact": "2",
+    "state": "7",
+    "category": "database"
+  },
+  {
+    "number": "INC0000011",
+    "sys_created_on": "2024-06-14 23:02:15",
+    "impact": "2",
+    "state": "7",
+    "category": "inquiry"
+  },
+  {
+    "number": "INC0000012",
+    "sys_created_on": "2024-06-14 23:11:21",
+    "impact": "3",
+    "state": "7",
+    "category": "software"
+  },
+  {
+    "number": "INC0000013",
+    "sys_created_on": "2024-06-14 23:18:07",
+    "impact": "1",
+    "state": "7",
+    "category": "inquiry"
+  },
+  {
+    "number": "INC0000014",
+    "sys_created_on": "2024-06-03 23:38:40",
+    "impact": "1",
+    "state": "7",
+    "category": "inquiry"
+  },
+  {
+    "number": "INC0000021",
+    "sys_created_on": "2024-06-14 23:52:18",
+    "impact": "3",
+    "state": "7",
+    "category": "inquiry"
+  },
+  {
+    "number": "INC0000024",
+    "sys_created_on": "2024-06-14 23:53:13",
+    "impact": "3",
+    "state": "7",
+    "category": "inquiry"
+  }
+]
