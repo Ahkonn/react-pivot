@@ -69,6 +69,7 @@ var Demo = createReactClass({
             activeDimensions={["Transaction Type"]}
             hideRows={hideRows}
             nPaginateRows={20}
+            compact={false}
           />
         </div>
 
